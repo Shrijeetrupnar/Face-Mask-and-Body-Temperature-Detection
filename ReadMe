@@ -1,4 +1,4 @@
-Face Mask and Body Temperature Detection | Team Member | Binghamton, NY                                     September 2020 – December 2020
+Face Mask and Body Temperature Detection | Team Member | Binghamton, NY                   September 2020 – December 2020
 
 ●	Implemented face mask and body temperature detection to be installed as a security clearance system that allows person to enter if they are wearing a face mask and their body temperature is below threshold 
 ●	Utilized a smart door locking and unlocking feature through the implementation of Raspberry Pi Module as computation device and Non-Contact Infrared Thermometer MLX90614 for body temperature detection
