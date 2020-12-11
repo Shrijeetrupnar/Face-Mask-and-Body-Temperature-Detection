@@ -1,0 +1,24 @@
+Face Mask and Body Temperature Detection | Team Member | Binghamton, NY                                     September 2020 – December 2020
+
+●	Implemented face mask and body temperature detection to be installed as a security clearance system that allows person to enter if they are wearing a face mask and their body temperature is below threshold 
+●	Utilized a smart door locking and unlocking feature through the implementation of Raspberry Pi Module as computation device and Non-Contact Infrared Thermometer MLX90614 for body temperature detection
+●	Applied OpenCV and tensor-flow to train the facemask data, with an accuracy of 90%
+●	Presented final design including all technical aspects to students and faculty
+
+
+
+Equipments needed:
+Raspberry pi (any model 3)
+MLX90614 temperature sensor.
+Screen for displaying message.
+Buzzer
+LEDs (green, red)
+Servo Motor for door.
+
+On system(we were using Laptop)
+Run the facemask_train python file to train the model. // need to train once.
+Run detection python file to detect the face mask.
+Run datasend python file to send the data collected to Raspberry. (You need to change the ip accordingly) 
+
+On Raspberry pi
+Run temperature.py
